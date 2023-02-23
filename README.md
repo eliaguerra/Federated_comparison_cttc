@@ -9,6 +9,6 @@ This repository contains the resources used to generate the results included in 
 3) BFL: code to reproduce blockchain enabled federated learing simulations
 
 The file TFF.yml can be used to create the conda environment for the simulations:
-'''
+```
 conda env create -f TFF.yml
-'''
+```
