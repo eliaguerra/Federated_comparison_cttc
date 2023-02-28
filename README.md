@@ -1,5 +1,5 @@
 # Federated_comparison_cttc
-Code for "How Much Does it Cost to Train a Machine Learning Model over Distributed Data Sources?"
+Code for "The Cost of Training Machine Learning Models over Distributed Data Sources" written by Elia Guerra, Francesc Wilhelmi, Marco Miozzo, and Paolo Dini. Corrisponding author: Elia Guerra (eguerra@cttc.cat).
 
 ## Repository description
 This repository contains the resources used to generate the results included in the paper entitled "How Much Does it Cost to Train a Machine Learning Model over Distributed Data Sources?". The files included are:
